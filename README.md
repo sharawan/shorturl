@@ -17,7 +17,7 @@ This project implements a simple multi-company URL shortener with role-based acc
 
    ```bash
    git clone <your-public-repo-url>
-   cd testproject
+   cd shorturl
    ```
 
 2. **Install PHP dependencies**
